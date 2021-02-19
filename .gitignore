@@ -1,0 +1,4 @@
+# exclude erlang object files
+**.beam
+# exclude vim backups
+**.swp
